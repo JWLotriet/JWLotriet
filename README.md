@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JWLotriet
-- ##
-Full Stack React Developer
+- Full Stack React Developer
 
 - 👀 I’m interested in ...
   React, Gatsby, Typescript, Tailwind, Contentful.
